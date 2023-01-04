@@ -22,3 +22,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: doc/Sphinx/_build/html
         enable_jekyll: false
+        force_orphan: true
