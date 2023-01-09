@@ -16,7 +16,7 @@ jobs:
       uses: ammaraskar/sphinx-action@master
       with:
         docs-folder: "doc/Sphinx"        
-        pre-build-command: "sudo apt-get update -y && sudo apt-get install -y git"
+        pre-build-command: "apt-get update -y && apt-get install -y git"
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
