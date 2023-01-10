@@ -1,0 +1,26 @@
+{
+	"name": "Smilei Development Container",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": "."
+	},
+	"capAdd": [
+		"SYS_PTRACE"
+	],
+	"securityOpt": [
+		"seccomp=unconfined"
+	],
+	"features": {
+		"ghcr.io/devcontainers/features/git": "latest" // build a newer version of git from source
+	},
+	// Configure tool-specific properties.
+	"customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": [
+				"streetsidesoftware.code-spell-checker"
+			]
+		}
+	},
+	"remoteUser": "root"
+}
