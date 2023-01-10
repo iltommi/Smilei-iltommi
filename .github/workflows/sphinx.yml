@@ -17,27 +17,10 @@ jobs:
         sudo apt-get --allow-releaseinfo-change update -y 
         sudo apt-get install -y git make sphinx
         make -C doc/Sphinx html
-        touch doc/Sphinx/_build/html/.nojekyll
-#     - name: Deploy
-#       uses: peaceiris/actions-gh-pages@v3
-#       with:
-#         github_token: ${{ secrets.GITHUB_TOKEN }}
-#         publish_dir: doc/Sphinx/_build/html
-#         enable_jekyll: false
-#         force_orphan: true
-
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        path: doc/Sphinx/_build/html
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: doc/Sphinx/_build/html
+        enable_jekyll: false
+        force_orphan: true
