@@ -1,0 +1,25 @@
+name: macIntel
+
+on:
+  push:
+    branches: [ master, develop, CI ]
+  pull_request:
+    branches: [ master, develop, CI ]
+
+jobs:
+  build:
+    runs-on: macos-11
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    - name: Tag latest
+      uses: EndBug/latest-tag@latest
+    - name: Build
+      run: |
+        brew update
+        brew install hdf5-parallel python3
+        PYTHONEXE=python3 HDF5_ROOT_DIR="$(brew --prefix hdf5-parallel)" make -j4
+    - name Run
+      run: ./smilei benchmarks/tst2d_00_em_propagation.py 
