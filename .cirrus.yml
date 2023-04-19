@@ -9,6 +9,7 @@ macM1_task:
     brew upgrade
     brew install iltommi/brews/hdf5-parallel python3 numpy
     pip3 install numpy
+    OMPI_CXX=g++-12 PYTHONEXE=python3 HDF5_ROOT_DIR="$(brew --prefix hdf5-parallel)" make env
     OMPI_CXX=g++-12 PYTHONEXE=python3 HDF5_ROOT_DIR="$(brew --prefix hdf5-parallel)" make -j4
     ./smilei benchmarks/tst2d_00_em_propagation.py
      
