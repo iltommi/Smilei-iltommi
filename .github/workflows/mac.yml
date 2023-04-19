@@ -19,6 +19,7 @@ jobs:
     - name: Build
       run: |
         brew update
+        brew upgrade
         brew install iltommi/brews/hdf5-parallel python3
         PYTHONEXE=python3 HDF5_ROOT_DIR="$(brew --prefix hdf5-parallel)" make -j4
     - name: Run
