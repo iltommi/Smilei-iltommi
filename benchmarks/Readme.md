@@ -1,0 +1,244 @@
+# Benchmarks list
+
+- `collisions/Maxwellianization.py` — (no comment found)
+- `collisions/Maxwellianization1.py` — ---------------------------------------------
+- `collisions/Stopping_power1.py` — ---------------------------------------------
+- `collisions/Stopping_power123.py` — (no comment found)
+- `collisions/Stopping_power2.py` — ---------------------------------------------
+- `collisions/Stopping_power3.py` — ---------------------------------------------
+- `collisions/beam_relaxation1.py` — ---------------------------------------------
+- `collisions/beam_relaxation123.py` — (no comment found)
+- `collisions/beam_relaxation2.py` — ---------------------------------------------
+- `collisions/beam_relaxation3.py` — ---------------------------------------------
+- `collisions/beam_relaxation4.py` — ---------------------------------------------
+- `collisions/beam_relaxation456.py` — (no comment found)
+- `collisions/beam_relaxation5.py` — ---------------------------------------------
+- `collisions/beam_relaxation6.py` — ---------------------------------------------
+- `collisions/beam_relaxation7.py` — ---------------------------------------------
+- `collisions/beam_relaxation789.py` — (no comment found)
+- `collisions/beam_relaxation8.py` — ---------------------------------------------
+- `collisions/beam_relaxation9.py` — ---------------------------------------------
+- `collisions/conductivity.py` — (no comment found)
+- `collisions/conductivity1.py` — ---------------------------------------------
+- `collisions/conductivity2.py` — ---------------------------------------------
+- `collisions/conductivity3.py` — ---------------------------------------------
+- `collisions/ionization_equilibrium.py` — (no comment found)
+- `collisions/ionization_equilibriumAl.py` — ---------------------------------------------
+- `collisions/ionization_equilibriumAu.py` — ---------------------------------------------
+- `collisions/ionization_equilibriumH.py` — ---------------------------------------------
+- `collisions/ionization_equilibriumZn.py` — ---------------------------------------------
+- `collisions/ionization_multiple.py` — (no comment found)
+- `collisions/ionization_multipleAl1.py` — ---------------------------------------------
+- `collisions/ionization_multipleAl2.py` — ---------------------------------------------
+- `collisions/ionization_multipleAu1.py` — ---------------------------------------------
+- `collisions/ionization_multipleAu2.py` — ---------------------------------------------
+- `collisions/ionization_multipleC1.py` — ---------------------------------------------
+- `collisions/ionization_multipleC2.py` — ---------------------------------------------
+- `collisions/ionization_multipleSn1.py` — ---------------------------------------------
+- `collisions/ionization_multipleSn2.py` — ---------------------------------------------
+- `collisions/ionization_multipleZn1.py` — ---------------------------------------------
+- `collisions/ionization_multipleZn2.py` — ---------------------------------------------
+- `collisions/ionization_rate.py` — (no comment found)
+- `collisions/ionization_rate1.py` — ---------------------------------------------
+- `collisions/ionization_rate2.py` — ---------------------------------------------
+- `collisions/ionization_rate3.py` — ---------------------------------------------
+- `collisions/ionization_stopping_power.py` — (no comment found)
+- `collisions/ionization_stopping_power1.py` — ---------------------------------------------
+- `collisions/ionization_stopping_power2.py` — ---------------------------------------------
+- `collisions/ionization_stopping_power3.py` — ---------------------------------------------
+- `collisions/ionization_stopping_power4.py` — ---------------------------------------------
+- `collisions/resparis.py` — (no comment found)
+- `collisions/temperature_isotropization.py` — (no comment found)
+- `collisions/temperature_isotropization1.py` — ---------------------------------------------
+- `collisions/temperature_isotropization2.py` — ---------------------------------------------
+- `collisions/thermalisation_ei1.py` — ---------------------------------------------
+- `collisions/thermalisation_ei123.py` — (no comment found)
+- `collisions/thermalisation_ei2.py` — ---------------------------------------------
+- `collisions/thermalisation_ei3.py` — ---------------------------------------------
+- `gpu/tst2d_gpu_o2_beam_plasma.py` — (no comment found)
+- `gpu/tst2d_v_o2_beam_plasma.py` — (no comment found)
+- `gpu/tst3d_gpu_o2_thermal_plasma.py` — ----------------------------------------------------------------------------------------
+- `gpu/tst3d_gpu_o2_thermal_plasma_medium.py` — ----------------------------------------------------------------------------------------
+- `gpu/tst3d_gpu_o2_thermal_plasma_short.py` — ----------------------------------------------------------------------------------------
+- `gpu/tst3d_gpu_o2_thin_foil.py` — ----------------------------------------------------------------------------------------
+- `gpu/tst3d_v_o2_thermal_plasma_medium.py` — ----------------------------------------------------------------------------------------
+- `gpu/tst3d_v_o2_thermal_plasma_short.py` — ----------------------------------------------------------------------------------------
+- `gpu/tst3d_v_o2_thin_foil.py` — ----------------------------------------------------------------------------------------
+- `maxwellJuttner/analyseThermalPlasmaNoDrift.py` — (no comment found)
+- `maxwellJuttner/analyseThermalPlasmaPxDrift.py` — (no comment found)
+- `maxwellJuttner/analyseThermalPlasmaPyDrift.py` — (no comment found)
+- `maxwellJuttner/analyseThermalPlasmaPzDrift.py` — (no comment found)
+- `maxwellJuttner/thermalPlasmaNoDrift.py` — ---------------------------------------------
+- `maxwellJuttner/thermalPlasmaPxDrift.py` — ---------------------------------------------
+- `maxwellJuttner/thermalPlasmaPyDrift.py` — ---------------------------------------------
+- `maxwellJuttner/thermalPlasmaPzDrift.py` — ---------------------------------------------
+- `picsar/tst_picsar2d_laser_antenna.py` — ----------------------------------------------------------------------------------------
+- `plane_wave/analyze_tst1d_cir_plane_wave_clas.py` — _____________________________________________________
+- `plane_wave/analyze_tst1d_cir_plane_wave_rela.py` — _____________________________________________________
+- `plane_wave/analyze_tst3d_cir_plane_wave.py` — (no comment found)
+- `plane_wave/tst3d_cir_plane_wave_Boris.py` — _____________________________________________________________________________
+- `tst1d_00_em_propagation.py` — (no comment found)
+- `tst1d_01_clb_explosion.py` — ----------------------------------------------------------------------------------------
+- `tst1d_02_two_str_instability.py` — ----------------------------------------------------------------------------------------
+- `tst1d_03_thermal_expansion.py` — ----------------------------------------------------------------------------------------
+- `tst1d_04_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
+- `tst1d_05_tunnel_ionisation.py` — ----------------------------------------------------------------------------------------
+- `tst1d_06_profiles.py` — (no comment found)
+- `tst1d_07_cir_plane_wave_rela.py` — _____________________________________________________________________________
+- `tst1d_08_cir_plane_wave_clas.py` — _____________________________________________________________________________
+- `tst1d_09_rad_electron_laser_collision.py` — ----------------------------------------------------------------------------------------
+- `tst1d_10_pair_electron_laser_collision.py` — ----------------------------------------------------------------------------------------
+- `tst1d_11_ionization_from_rate.py` — ----------------------------------------------------------------------------------------
+- `tst1d_12_envelope_propagation.py` — ############################ Laser envelope propagation in vacuum
+- `tst1d_13_envelope_wake.py` — ################## 1D Laser Wakefield with envelope
+- `tst1d_15_particle_injection.py` — ----------------------------------------------------------------------------------------
+- `tst1d_16_tunnel_ionisation_frozen_ions.py` — ----------------------------------------------------------------------------------------
+- `tst1d_17_thermal_plasma_particle_merging.py` — ----------------------------------------------------------------------------------------
+- `tst1d_18_envelope_propagation_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
+- `tst1d_18_radiation_spectrum_chi0.1.py` — #######################################################################################################################
+- `tst1d_19_envelope_wake_reduced_dispersion.py` — ################## 1D Laser Wakefield with envelope
+- `tst1d_19_radiation_spectrum_chi1.0.py` — #######################################################################################################################
+- `tst1d_22_em_dispersion_m4.py` — (no comment found)
+- `tst1d_23_interpolation_wt2.py` — (no comment found)
+- `tst1d_23_interpolation_wt4.py` — (no comment found)
+- `tst2d_00_em_propagation.py` — ----------------------------------------------------------------------------------------
+- `tst2d_01_plasma_mirror.py` — ----------------------------------------------------------------------------------------
+- `tst2d_02_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
+- `tst2d_03_plasma_collision.py` — ----------------------------------------------------------------------------------------
+- `tst2d_04_laser_wake.py` — (no comment found)
+- `tst2d_04_laser_wake_sdmd.py` — (no comment found)
+- `tst2d_05_antenna_wall.py` — ----------------------------------------------------------------------------------------
+- `tst2d_06_profiles.py` — (no comment found)
+- `tst2d_07_friedman_filter.py` — ----------------------------------------------------------------------------------------
+- `tst2d_08_synchrotron_chi1.py` — ----------------------------------------------------------------------------------------
+- `tst2d_09_synchrotron_chi0.1.py` — ----------------------------------------------------------------------------------------
+- `tst2d_11_laser_offset.py` — ----------------------------------------------------------------------------------------
+- `tst2d_12_envelope_propagation.py` — ############################ Laser envelope propagation in vacuum
+- `tst2d_13_envelope_wake.py` — ################## 2D Laser Wakefield with envelope
+- `tst2d_14_particle_injection_x.py` — ----------------------------------------------------------------------------------------
+- `tst2d_14_particle_injection_y.py` — ----------------------------------------------------------------------------------------
+- `tst2d_15_qed_cascade_particle_merging.py` — ----------------------------------------------------------------------------------------
+- `tst2d_16_envelope_propagation_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
+- `tst2d_17_envelope_wake_reduced_dispersion.py` — ################## 2D Laser Wakefield with envelope
+- `tst2d_18_em_pml.py` — ----------------------------------------------------------------------------------------
+- `tst2d_20_y_em_propagation.py` — ----------------------------------------------------------------------------------------
+- `tst2d_21_y_laser_offset.py` — ----------------------------------------------------------------------------------------
+- `tst2d_22_em_dispersion_m4.py` — (no comment found)
+- `tst2d_23_interpolation_wt2.py` — (no comment found)
+- `tst2d_23_interpolation_wt4.py` — (no comment found)
+- `tst2d_s_o2_laser_wake_higuera.py` — (no comment found)
+- `tst2d_s_o2_laser_wake_vay.py` — (no comment found)
+- `tst2d_s_o2_multiphoton_Breit_Wheeler.py` — ----------------------------------------------------------------------------------------
+- `tst2d_s_o4_em_propagation.py` — ----------------------------------------------------------------------------------------
+- `tst2d_s_o4_laser_wake_vay.py` — (no comment found)
+- `tst2d_s_o4_multiphoton_Breit_Wheeler.py` — ----------------------------------------------------------------------------------------
+- `tst2d_s_o4_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
+- `tst2d_tasks_01_pair_production.py` — SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+- `tst2d_tasks_01_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_04_laser_wake.py` — (no comment found)
+- `tst2d_v_09_synchrotron_chi0.1.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_23_interpolation_wt2.py` — (no comment found)
+- `tst2d_v_23_interpolation_wt4.py` — (no comment found)
+- `tst2d_v_o2_em_propagation.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o2_laser_wake_higuera.py` — (no comment found)
+- `tst2d_v_o2_laser_wake_vay.py` — (no comment found)
+- `tst2d_v_o2_multiphoton_Breit_Wheeler.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o2_plasma_mirror.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o2_qed_cascade_vranic_cartesian.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o2_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o4_em_propagation.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o4_laser_wake_vay.py` — (no comment found)
+- `tst2d_v_o4_multiphoton_Breit_Wheeler.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o4_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
+- `tst3d_00_em_propagation.py` — (no comment found)
+- `tst3d_01_thermal_plasma.py` — ----------------------------------------------------------------------------------------
+- `tst3d_01_thermal_plasma_pxr.py` — ----------------------------------------------------------------------------------------
+- `tst3d_02_diags.py` — (no comment found)
+- `tst3d_04_laser_wake.py` — (no comment found)
+- `tst3d_04_laser_wake_lehe.py` — (no comment found)
+- `tst3d_04_laser_wake_sdmd.py` — (no comment found)
+- `tst3d_06_profiles.py` — (no comment found)
+- `tst3d_07_envelope_propagation.py` — ############################ Laser envelope propagation in vacuum
+- `tst3d_08_envelope_wake.py` — ################## 3D Laser Wakefield with envelope
+- `tst3d_09_relativistic_cylindrical_bunch.py` — ##### Namelist for the field initialization of a relativistic electron bunch, with cylindrical uniform density
+- `tst3d_0_em_propagation_particles.py` — ----------------------------------------------------------------------------------------
+- `tst3d_10_em_propagation_external_field_tabulated.py` — (no comment found)
+- `tst3d_11_laser_offset.py` — (no comment found)
+- `tst3d_12_relativistic_electron_beam_field_initialization.py` — ##### Namelist for field initialization of a relativistic electron bunch
+- `tst3d_13_particle_injection_x.py` — ----------------------------------------------------------------------------------------
+- `tst3d_13_particle_injection_y.py` — ----------------------------------------------------------------------------------------
+- `tst3d_13_particle_injection_z.py` — ----------------------------------------------------------------------------------------
+- `tst3d_14_electron_sphere_field_initialization.py` — ##### Namelist for the field initialization of an electron sphere in AM geometry
+- `tst3d_16_envelope_propagation_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
+- `tst3d_17_envelope_wake_reduced_dispersion.py` — ################## 3D Laser Wakefield with envelope
+- `tst3d_18_synchrotron_analytical.py` — ----------------------------------------------------------------------------------------
+- `tst3d_20_y_em_propagation.py` — (no comment found)
+- `tst3d_21_z_laser_offset.py` — (no comment found)
+- `tst3d_22_em_dispersion_m4.py` — (no comment found)
+- `tst3d_23_interpolation_wt2.py` — (no comment found)
+- `tst3d_23_interpolation_wt4.py` — (no comment found)
+- `tst3d_a_o2_laser_wake.py` — (no comment found)
+- `tst3d_electron_bunch_wake.py` — ##### Namelist for plasma wake excited by a relativistic electron bunch
+- `tst3d_envelope_propagation_to_Rayleigh_length.py` — ############################ Laser envelope propagation in vacuum
+- `tst3d_envelope_wakefield_linear_theory.py` — ################## 3D Laser Wakefield with envelope
+- `tst3d_laser_wake_bunch_init_numpy.py` — ### Namelist for laser wakefield acceleration, external injection of an electron bunch made of numpy particles
+- `tst3d_rel_cyl_uniform_bunch_field_init.py` — ##### Namelist for plasma wake excited by a relativistic electron bunch
+- `tst3d_s_o2_laser_wake_yee_higuera.py` — (no comment found)
+- `tst3d_s_o2_laser_wake_yee_vay.py` — (no comment found)
+- `tst3d_s_o2_synchrotron_radiation_chi1.py` — ----------------------------------------------------------------------------------------
+- `tst3d_s_o2_thermal_plasma.py` — ----------------------------------------------------------------------------------------
+- `tst3d_s_o4_em_propagation.py` — (no comment found)
+- `tst3d_s_o4_thermal_plasma.py` — ----------------------------------------------------------------------------------------
+- `tst3d_tasks_01_laser_wakefield_envelope.py` — ----------------------------------------------------------------------------------------
+- `tst3d_tasks_v_01_plasma_expansion.py` — SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+- `tst3d_v_08_envelope_wake.py` — ################## 3D Laser Wakefield with envelope
+- `tst3d_v_12_external_laser.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_23_interpolation_wt2.py` — (no comment found)
+- `tst3d_v_23_interpolation_wt4.py` — (no comment found)
+- `tst3d_v_o2_laser_wake_yee_boris.py` — (no comment found)
+- `tst3d_v_o2_magnetic_shower_particle_merging.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_o2_magnetic_shower_vranic_cartesian.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_o2_particle_injection_x.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_o2_plasma_relaxation_dyn.py` — ------------------------------------------------------------------------------
+- `tst3d_v_o2_synchrotron_analytical.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_o2_thermal_plasma.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_o4_laser_wake_boris.py` — (no comment found)
+- `tst3d_v_o4_magnetic_shower_particle_merging.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_o4_particle_injection_x.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_o4_plasma_relaxation_dyn.py` — ------------------------------------------------------------------------------
+- `tst3d_v_o4_synchrotron_analytical.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_o4_thermal_plasma.py` — ----------------------------------------------------------------------------------------
+- `tstAM_00_em_propagation.py` — ----------------------------------------------------------------------------------------
+- `tstAM_04_laser_propagation.py` — ----------------------------------------------------------------------------------------
+- `tstAM_04_laser_propagation_sdmd.py` — ----------------------------------------------------------------------------------------
+- `tstAM_04b_laser_propagation_numpy.py` — ----------------------------------------------------------------------------------------
+- `tstAM_04c_laser_propagation_file.py` — ----------------------------------------------------------------------------------------
+- `tstAM_04d_laser_propagation_Order1.py` — ----------------------------------------------------------------------------------------
+- `tstAM_05_envelope_propagation.py` — ############################ Laser envelope propagation in vacuum
+- `tstAM_06_envelope_wake.py` — ############################ Laser envelope propagation in underdense plasma
+- `tstAM_07_envelope_propagation_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
+- `tstAM_08_envelope_wake_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
+- `tstAM_10_em_propagation_external_field.py` — ----------------------------------------------------------------------------------------
+- `tstAM_12_relativistic_electron_beam_field_initialization.py` — ##### Namelist for the field initialization of a relativistic electron bunch
+- `tstAM_13_electron_sphere_field_initialization.py` — ##### Namelist for the field initialization of an electron sphere in AM geometry
+- `tstAM_14_envelope_ionization_linear_polarization.py` — (no comment found)
+- `tstAM_15_envelope_ionization_circular_polarization.py` — (no comment found)
+- `tstAM_16_multiple_envelopes_wake.py` — Multiple laser envelopes propagation in plasma
+- `tstAM_17_plasma_channel_terzani.py` — ############################ Input namelist for laser guiding in a plasma channel
+- `tstAM_picsar_04_laser_wake.py` — ----------------------------------------------------------------------------------------
+- `tstAM_tasks_01_laser_wakefield_ionization.py` — ----------------------------------------------------------------------------------------
+- `tstAM_tasks_02_envelope_ionization.py` — ----------------------------------------------------------------------------------------
+- `tstAM_v_04_laser_propagation.py` — ----------------------------------------------------------------------------------------
+- `tst_collisions1_beam_relaxation.py` — ---------------------------------------------
+- `tst_collisions2_ionization_rate.py` — ---------------------------------------------
+- `tst_collisions3_AM_uniformity.py` — ---------------------------------------------
+- `tst_collisions3_uniformity.py` — ---------------------------------------------
+- `tst_collisions4_DD_fusion_rate.py` — ---------------------------------------------
+- `tst_collisions5_debye_length.py` — ---------------------------------------------
+- `tst_ionization_current_1d_order2.py` — ----------------------------------------------------------------------------------------
+- `tst_ionization_current_1d_order4.py` — ----------------------------------------------------------------------------------------
+- `tst_ionization_current_2d_order2.py` — ----------------------------------------------------------------------------------------
+- `tst_ionization_current_2d_order4.py` — ----------------------------------------------------------------------------------------
+- `tst_ionization_current_3d_order2.py` — ----------------------------------------------------------------------------------------
+- `tst_ionization_current_3d_order4.py` — ----------------------------------------------------------------------------------------
+- `tst_quick_1d.py` — ----------------------------------------------------------------------------------------
