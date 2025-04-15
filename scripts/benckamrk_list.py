@@ -3,7 +3,7 @@ import os
 def extract_first_comment(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
-            comment="(no comment found)"
+            comment=""
             for line in f:
                 if line.startswith("#") and len(line) > 1:
                     comment+=line[1:]
