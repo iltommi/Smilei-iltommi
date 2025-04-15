@@ -28,7 +28,7 @@ def list_sorted_py_files_with_comments(directory):
 
     md_lines = ["# Benchmarks list\n"]
     for path, comment in py_files:
-        md_lines.append(f"- `{path}` — {comment}")
+        md_lines.append(f"- `{path}` : {comment}")
 
     return "\n".join(md_lines)
 
