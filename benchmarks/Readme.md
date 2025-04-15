@@ -1,244 +1,1013 @@
 # Benchmarks list
 
 - `collisions/Maxwellianization.py` — (no comment found)
-- `collisions/Maxwellianization1.py` — ---------------------------------------------
-- `collisions/Stopping_power1.py` — ---------------------------------------------
+- `collisions/Maxwellianization1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/Stopping_power1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/Stopping_power123.py` — (no comment found)
-- `collisions/Stopping_power2.py` — ---------------------------------------------
-- `collisions/Stopping_power3.py` — ---------------------------------------------
-- `collisions/beam_relaxation1.py` — ---------------------------------------------
+- `collisions/Stopping_power2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/Stopping_power3.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/beam_relaxation1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/beam_relaxation123.py` — (no comment found)
-- `collisions/beam_relaxation2.py` — ---------------------------------------------
-- `collisions/beam_relaxation3.py` — ---------------------------------------------
-- `collisions/beam_relaxation4.py` — ---------------------------------------------
+- `collisions/beam_relaxation2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/beam_relaxation3.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/beam_relaxation4.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/beam_relaxation456.py` — (no comment found)
-- `collisions/beam_relaxation5.py` — ---------------------------------------------
-- `collisions/beam_relaxation6.py` — ---------------------------------------------
-- `collisions/beam_relaxation7.py` — ---------------------------------------------
+- `collisions/beam_relaxation5.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/beam_relaxation6.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/beam_relaxation7.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/beam_relaxation789.py` — (no comment found)
-- `collisions/beam_relaxation8.py` — ---------------------------------------------
-- `collisions/beam_relaxation9.py` — ---------------------------------------------
+- `collisions/beam_relaxation8.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/beam_relaxation9.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/conductivity.py` — (no comment found)
-- `collisions/conductivity1.py` — ---------------------------------------------
-- `collisions/conductivity2.py` — ---------------------------------------------
-- `collisions/conductivity3.py` — ---------------------------------------------
+- `collisions/conductivity1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/conductivity2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/conductivity3.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/ionization_equilibrium.py` — (no comment found)
-- `collisions/ionization_equilibriumAl.py` — ---------------------------------------------
-- `collisions/ionization_equilibriumAu.py` — ---------------------------------------------
-- `collisions/ionization_equilibriumH.py` — ---------------------------------------------
-- `collisions/ionization_equilibriumZn.py` — ---------------------------------------------
+- `collisions/ionization_equilibriumAl.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_equilibriumAu.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_equilibriumH.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_equilibriumZn.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/ionization_multiple.py` — (no comment found)
-- `collisions/ionization_multipleAl1.py` — ---------------------------------------------
-- `collisions/ionization_multipleAl2.py` — ---------------------------------------------
-- `collisions/ionization_multipleAu1.py` — ---------------------------------------------
-- `collisions/ionization_multipleAu2.py` — ---------------------------------------------
-- `collisions/ionization_multipleC1.py` — ---------------------------------------------
-- `collisions/ionization_multipleC2.py` — ---------------------------------------------
-- `collisions/ionization_multipleSn1.py` — ---------------------------------------------
-- `collisions/ionization_multipleSn2.py` — ---------------------------------------------
-- `collisions/ionization_multipleZn1.py` — ---------------------------------------------
-- `collisions/ionization_multipleZn2.py` — ---------------------------------------------
+- `collisions/ionization_multipleAl1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_multipleAl2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_multipleAu1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_multipleAu2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_multipleC1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_multipleC2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_multipleSn1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_multipleSn2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_multipleZn1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_multipleZn2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/ionization_rate.py` — (no comment found)
-- `collisions/ionization_rate1.py` — ---------------------------------------------
-- `collisions/ionization_rate2.py` — ---------------------------------------------
-- `collisions/ionization_rate3.py` — ---------------------------------------------
+- `collisions/ionization_rate1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_rate2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_rate3.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/ionization_stopping_power.py` — (no comment found)
-- `collisions/ionization_stopping_power1.py` — ---------------------------------------------
-- `collisions/ionization_stopping_power2.py` — ---------------------------------------------
-- `collisions/ionization_stopping_power3.py` — ---------------------------------------------
-- `collisions/ionization_stopping_power4.py` — ---------------------------------------------
+- `collisions/ionization_stopping_power1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_stopping_power2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_stopping_power3.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/ionization_stopping_power4.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/resparis.py` — (no comment found)
 - `collisions/temperature_isotropization.py` — (no comment found)
-- `collisions/temperature_isotropization1.py` — ---------------------------------------------
-- `collisions/temperature_isotropization2.py` — ---------------------------------------------
-- `collisions/thermalisation_ei1.py` — ---------------------------------------------
+- `collisions/temperature_isotropization1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/temperature_isotropization2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/thermalisation_ei1.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `collisions/thermalisation_ei123.py` — (no comment found)
-- `collisions/thermalisation_ei2.py` — ---------------------------------------------
-- `collisions/thermalisation_ei3.py` — ---------------------------------------------
+- `collisions/thermalisation_ei2.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `collisions/thermalisation_ei3.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
 - `gpu/tst2d_gpu_o2_beam_plasma.py` — (no comment found)
 - `gpu/tst2d_v_o2_beam_plasma.py` — (no comment found)
-- `gpu/tst3d_gpu_o2_thermal_plasma.py` — ----------------------------------------------------------------------------------------
-- `gpu/tst3d_gpu_o2_thermal_plasma_medium.py` — ----------------------------------------------------------------------------------------
-- `gpu/tst3d_gpu_o2_thermal_plasma_short.py` — ----------------------------------------------------------------------------------------
-- `gpu/tst3d_gpu_o2_thin_foil.py` — ----------------------------------------------------------------------------------------
-- `gpu/tst3d_v_o2_thermal_plasma_medium.py` — ----------------------------------------------------------------------------------------
-- `gpu/tst3d_v_o2_thermal_plasma_short.py` — ----------------------------------------------------------------------------------------
-- `gpu/tst3d_v_o2_thin_foil.py` — ----------------------------------------------------------------------------------------
+- `gpu/tst3d_gpu_o2_thermal_plasma.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `gpu/tst3d_gpu_o2_thermal_plasma_medium.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					Thermal plasma 3D (in a cube)
+ ----------------------------------------------------------------------------------------
+
+- `gpu/tst3d_gpu_o2_thermal_plasma_short.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `gpu/tst3d_gpu_o2_thin_foil.py` — (no comment found) ----------------------------------------------------------------------------------------
+                                       SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Laser-thin foil interaction at extremen intensity with radiations
+ - plane wave
+ From: https://<>/smilei/benchmarking/-/raw/master/benchmarks/thin_foil_3d_o2/template.py
+ ----------------------------------------------------------------------------------------
+
+- `gpu/tst3d_v_o2_thermal_plasma_medium.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					Thermal plasma 3D (in a cube)
+ ----------------------------------------------------------------------------------------
+
+- `gpu/tst3d_v_o2_thermal_plasma_short.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `gpu/tst3d_v_o2_thin_foil.py` — (no comment found) ----------------------------------------------------------------------------------------
+                                       SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Laser-thin foil interaction at extremen intensity with radiations
+ - plane wave
+ From: https://<>/smilei/benchmarking/-/raw/master/benchmarks/thin_foil_3d_o2/template.py
+ ----------------------------------------------------------------------------------------
+
 - `maxwellJuttner/analyseThermalPlasmaNoDrift.py` — (no comment found)
 - `maxwellJuttner/analyseThermalPlasmaPxDrift.py` — (no comment found)
 - `maxwellJuttner/analyseThermalPlasmaPyDrift.py` — (no comment found)
 - `maxwellJuttner/analyseThermalPlasmaPzDrift.py` — (no comment found)
-- `maxwellJuttner/thermalPlasmaNoDrift.py` — ---------------------------------------------
-- `maxwellJuttner/thermalPlasmaPxDrift.py` — ---------------------------------------------
-- `maxwellJuttner/thermalPlasmaPyDrift.py` — ---------------------------------------------
-- `maxwellJuttner/thermalPlasmaPzDrift.py` — ---------------------------------------------
-- `picsar/tst_picsar2d_laser_antenna.py` — ----------------------------------------------------------------------------------------
-- `plane_wave/analyze_tst1d_cir_plane_wave_clas.py` — _____________________________________________________
-- `plane_wave/analyze_tst1d_cir_plane_wave_rela.py` — _____________________________________________________
+- `maxwellJuttner/thermalPlasmaNoDrift.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+ Remember: never override the following names:
+           SmileiComponent, Species, Laser, Collisions, DiagProbe, DiagParticleBinning,
+           DiagScalar, DiagPhase or ExternalField
+
+- `maxwellJuttner/thermalPlasmaPxDrift.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+ Remember: never override the following names:
+           SmileiComponent, Species, Laser, Collisions, DiagProbe, DiagParticleBinning,
+           DiagScalar, DiagPhase or ExternalField
+
+- `maxwellJuttner/thermalPlasmaPyDrift.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+ Remember: never override the following names:
+           SmileiComponent, Species, Laser, Collisions, DiagProbe, DiagParticleBinning,
+           DiagScalar, DiagPhase or ExternalField
+
+- `maxwellJuttner/thermalPlasmaPzDrift.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+ Remember: never override the following names:
+           SmileiComponent, Species, Laser, Collisions, DiagProbe, DiagParticleBinning,
+           DiagScalar, DiagPhase or ExternalField
+
+- `picsar/tst_picsar2d_laser_antenna.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `plane_wave/analyze_tst1d_cir_plane_wave_clas.py` — (no comment found) _____________________________________________________
+
+ Particle tracking analysis of trajectories in 
+ a circular plane wave
+
+ Non-relativistic (classical) regime
+ _____________________________________________________
+
+- `plane_wave/analyze_tst1d_cir_plane_wave_rela.py` — (no comment found) _____________________________________________________
+
+ Particle tracking analysis of trajectories in 
+ circular plane wave
+
+ _____________________________________________________
+
 - `plane_wave/analyze_tst3d_cir_plane_wave.py` — (no comment found)
-- `plane_wave/tst3d_cir_plane_wave_Boris.py` — _____________________________________________________________________________
+- `plane_wave/tst3d_cir_plane_wave_Boris.py` — (no comment found) _____________________________________________________________________________
+
+ Electron trajectory in a plane wave with Gaussian 
+ temporal profile.
+
+ _____________________________________________________________________________
+
 - `tst1d_00_em_propagation.py` — (no comment found)
-- `tst1d_01_clb_explosion.py` — ----------------------------------------------------------------------------------------
-- `tst1d_02_two_str_instability.py` — ----------------------------------------------------------------------------------------
-- `tst1d_03_thermal_expansion.py` — ----------------------------------------------------------------------------------------
-- `tst1d_04_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
-- `tst1d_05_tunnel_ionisation.py` — ----------------------------------------------------------------------------------------
+- `tst1d_01_clb_explosion.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_02_two_str_instability.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_03_thermal_expansion.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_04_radiation_pressure_acc.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_05_tunnel_ionisation.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst1d_06_profiles.py` — (no comment found)
-- `tst1d_07_cir_plane_wave_rela.py` — _____________________________________________________________________________
-- `tst1d_08_cir_plane_wave_clas.py` — _____________________________________________________________________________
-- `tst1d_09_rad_electron_laser_collision.py` — ----------------------------------------------------------------------------------------
-- `tst1d_10_pair_electron_laser_collision.py` — ----------------------------------------------------------------------------------------
-- `tst1d_11_ionization_from_rate.py` — ----------------------------------------------------------------------------------------
-- `tst1d_12_envelope_propagation.py` — ############################ Laser envelope propagation in vacuum
-- `tst1d_13_envelope_wake.py` — ################## 1D Laser Wakefield with envelope
-- `tst1d_15_particle_injection.py` — ----------------------------------------------------------------------------------------
-- `tst1d_16_tunnel_ionisation_frozen_ions.py` — ----------------------------------------------------------------------------------------
-- `tst1d_17_thermal_plasma_particle_merging.py` — ----------------------------------------------------------------------------------------
-- `tst1d_18_envelope_propagation_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
-- `tst1d_18_radiation_spectrum_chi0.1.py` — #######################################################################################################################
-- `tst1d_19_envelope_wake_reduced_dispersion.py` — ################## 1D Laser Wakefield with envelope
-- `tst1d_19_radiation_spectrum_chi1.0.py` — #######################################################################################################################
+- `tst1d_07_cir_plane_wave_rela.py` — (no comment found) _____________________________________________________________________________
+
+ Electron trajectory in a plane wave 
+ with a Gaussian temporal profile.
+
+ Validation in the relativist regime
+ 
+ _____________________________________________________________________________
+
+- `tst1d_08_cir_plane_wave_clas.py` — (no comment found) _____________________________________________________________________________
+
+ Electron trajectory in a plane wave 
+ with a Gaussian temporal profile.
+
+ Validation in the non-relativist regime
+ 
+ _____________________________________________________________________________
+
+- `tst1d_09_rad_electron_laser_collision.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Benchmark for the radiation in the collision of
+ a GeV electron bunch with a counter-propagatin circularly polarized wave
+
+ In this tests case, an electron bunch is initialized per radiation
+ loss models at the same positions with an energy of 1 GeV near the right
+ boundary of the box. They propagate to the left of the box where a circularly
+ polarized laser plane wave is injected. This wave has an hyper-guassian
+ profile of wavelength \lambda.
+
+ Validation:
+ - Continuous radiation reaction model: Landau-Lifshitz
+   with and without quantum corrections
+ - Niel stochastic radiation reaction model
+ - Monte-Carlo radiation reaction model without photon creation
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_10_pair_electron_laser_collision.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Descrition:
+ Head-on collision between an electron bunch and a counter-propagating laser wave.
+ The electron beam has an initial energy of 4 GeV.
+ The laser has an intensity close to 10^23 W/cm^2
+
+ Purpose:
+ During the interaction,the electrons will radiate high-energy photons
+ that in turn will decay onto pairs via the multiphoton Breit-Wheeler process.
+
+ Validation:
+ - Radiation reaction Monte-Carlo process
+ - Emission and propagation of macro-photons
+ - multiphoton Breit-Wheeler pair creation process
+
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_11_ionization_from_rate.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_12_envelope_propagation.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tst1d_13_envelope_wake.py` — (no comment found)################## 1D Laser Wakefield with envelope
+
+- `tst1d_15_particle_injection.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Particle injection from the Xmin and Xmax boundaries
+
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_16_tunnel_ionisation_frozen_ions.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_17_thermal_plasma_particle_merging.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Application of the particle merging on a thermal plasma
+
+ ----------------------------------------------------------------------------------------
+
+- `tst1d_18_envelope_propagation_reduced_dispersion.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tst1d_18_radiation_spectrum_chi0.1.py` — (no comment found)#######################################################################################################################
+ Setup:                                                                                                               #
+ - Incoherent (synchrotron) radiation emission by ultra-relativistic electron                                         #
+ - relativistic electrons radiating in a constant magnetic field                                                      #
+ - EM fields are frozen: 4 electron species are considered: not radiation, LL, cLL, MC                                #
+ - reference frequency is the gyrofrequency                                                                           #
+ Main test:                                                                                                           #
+ - RadiationSpectrum diagnostics                                                                                      #
+ Author:                                                                                                              #
+ mickael.grech@polytechnique.edu                                                                                      #
+#######################################################################################################################
+
+- `tst1d_19_envelope_wake_reduced_dispersion.py` — (no comment found)################## 1D Laser Wakefield with envelope
+
+- `tst1d_19_radiation_spectrum_chi1.0.py` — (no comment found)#######################################################################################################################
+ Setup:                                                                                                               #
+ - Incoherent (synchrotron) radiation emission by ultra-relativistic electron                                         #
+ - relativistic electrons radiating in a constant magnetic field                                                      #
+ - EM fields are frozen: 4 electron species are considered: not radiation, LL, cLL, MC                                #
+ - reference frequency is the gyrofrequency                                                                           #
+ Main test:                                                                                                           #
+ - RadiationSpectrum diagnostics                                                                                      #
+ Author:                                                                                                              #
+ mickael.grech@polytechnique.edu                                                                                      #
+#######################################################################################################################
+
 - `tst1d_22_em_dispersion_m4.py` — (no comment found)
 - `tst1d_23_interpolation_wt2.py` — (no comment found)
 - `tst1d_23_interpolation_wt4.py` — (no comment found)
-- `tst2d_00_em_propagation.py` — ----------------------------------------------------------------------------------------
-- `tst2d_01_plasma_mirror.py` — ----------------------------------------------------------------------------------------
-- `tst2d_02_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
-- `tst2d_03_plasma_collision.py` — ----------------------------------------------------------------------------------------
+- `tst2d_00_em_propagation.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_01_plasma_mirror.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_02_radiation_pressure_acc.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_03_plasma_collision.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst2d_04_laser_wake.py` — (no comment found)
 - `tst2d_04_laser_wake_sdmd.py` — (no comment found)
-- `tst2d_05_antenna_wall.py` — ----------------------------------------------------------------------------------------
+- `tst2d_05_antenna_wall.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst2d_06_profiles.py` — (no comment found)
-- `tst2d_07_friedman_filter.py` — ----------------------------------------------------------------------------------------
-- `tst2d_08_synchrotron_chi1.py` — ----------------------------------------------------------------------------------------
-- `tst2d_09_synchrotron_chi0.1.py` — ----------------------------------------------------------------------------------------
-- `tst2d_11_laser_offset.py` — ----------------------------------------------------------------------------------------
-- `tst2d_12_envelope_propagation.py` — ############################ Laser envelope propagation in vacuum
-- `tst2d_13_envelope_wake.py` — ################## 2D Laser Wakefield with envelope
-- `tst2d_14_particle_injection_x.py` — ----------------------------------------------------------------------------------------
-- `tst2d_14_particle_injection_y.py` — ----------------------------------------------------------------------------------------
-- `tst2d_15_qed_cascade_particle_merging.py` — ----------------------------------------------------------------------------------------
-- `tst2d_16_envelope_propagation_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
-- `tst2d_17_envelope_wake_reduced_dispersion.py` — ################## 2D Laser Wakefield with envelope
-- `tst2d_18_em_pml.py` — ----------------------------------------------------------------------------------------
-- `tst2d_20_y_em_propagation.py` — ----------------------------------------------------------------------------------------
-- `tst2d_21_y_laser_offset.py` — ----------------------------------------------------------------------------------------
+- `tst2d_07_friedman_filter.py` — (no comment found)
+- `tst2d_08_synchrotron_chi1.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Synchrotron: radiation loss of electrons rotating in a constant
+              magnetic field
+
+ In this tests case, an electron bunch is initialized per radiation
+ loss models at the same positions. The magnetic field and the initial energy
+ is computed so that the initial quantum parameter is equal to 1.
+
+ Validation:
+ - Landau-Lifshitz radiation loss with quantum correction
+ - Niel radiation model
+ - Monte-Carlo radiation loss
+ - Species scalar diagnostics
+ - External fields
+ - Particle binning with the quantum parameter
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_09_synchrotron_chi0.1.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Synchrotron: radiation loss of electrons rotating in a constant
+              magnetic field
+
+ In this tests case, an electron bunch is initialized per radiation
+ loss models at the same positions. The magnetic field and the initial energy
+ is computed so that the initial quantum parameter is equal to 0.1
+
+ Validation:
+ - Corrected Landau-Lifshitz radiation loss
+ - Niel stochastic radiation loss
+ - Monte-Carlo model
+ - Species scalar diagnostics
+ - External fields
+ - Particle binning diagnostics for the quantum parameter
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_11_laser_offset.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_12_envelope_propagation.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tst2d_13_envelope_wake.py` — (no comment found)################## 2D Laser Wakefield with envelope
+
+- `tst2d_14_particle_injection_x.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Particle injection from the Xmin and Xmax boundaries
+
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_14_particle_injection_y.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Particle injection from the Xmin and Xmax boundaries
+
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_15_qed_cascade_particle_merging.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Input file to test the particle merging in 2D
+
+ This scenario simulate the QED cascade induced in the collision of 2
+ lineary polarized plane waves.
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_16_envelope_propagation_reduced_dispersion.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tst2d_17_envelope_wake_reduced_dispersion.py` — (no comment found)################## 2D Laser Wakefield with envelope
+
+- `tst2d_18_em_pml.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_20_y_em_propagation.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_21_y_laser_offset.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst2d_22_em_dispersion_m4.py` — (no comment found)
 - `tst2d_23_interpolation_wt2.py` — (no comment found)
 - `tst2d_23_interpolation_wt4.py` — (no comment found)
 - `tst2d_s_o2_laser_wake_higuera.py` — (no comment found)
 - `tst2d_s_o2_laser_wake_vay.py` — (no comment found)
-- `tst2d_s_o2_multiphoton_Breit_Wheeler.py` — ----------------------------------------------------------------------------------------
-- `tst2d_s_o4_em_propagation.py` — ----------------------------------------------------------------------------------------
+- `tst2d_s_o2_multiphoton_Breit_Wheeler.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Descrition:
+ Interaction between a bunch of photons and a constant magnetic field
+
+ Purpose:
+ During the interaction,the photons will progressively decay into pairs
+ of electron-positron via the multiphoton Breit-Wheeler process
+ The radiation reaction of particles is not activated.
+
+ Validation:
+ - Propagation of macro-photons
+ - multiphoton Breit-Wheeler pair creation process
+
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_s_o4_em_propagation.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst2d_s_o4_laser_wake_vay.py` — (no comment found)
-- `tst2d_s_o4_multiphoton_Breit_Wheeler.py` — ----------------------------------------------------------------------------------------
-- `tst2d_s_o4_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
-- `tst2d_tasks_01_pair_production.py` — SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
-- `tst2d_tasks_01_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
+- `tst2d_s_o4_multiphoton_Breit_Wheeler.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Descrition:
+ Interaction between a bunch of photons and a constant magnetic field
+
+ Purpose:
+ During the interaction,the photons will progressively decay into pairs
+ of electron-positron via the multiphoton Breit-Wheeler process
+ The radiation reaction of particles is not activated.
+
+ Validation:
+ - Propagation of macro-photons
+ - multiphoton Breit-Wheeler pair creation process
+
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_s_o4_radiation_pressure_acc.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_tasks_01_pair_production.py` — (no comment found) SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_tasks_01_radiation_pressure_acc.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst2d_v_04_laser_wake.py` — (no comment found)
-- `tst2d_v_09_synchrotron_chi0.1.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_09_synchrotron_chi0.1.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Synchrotron: radiation loss of electrons rotating in a constant
+              magnetic field
+
+ In this tests case, an electron bunch is initialized per radiation
+ loss models at the same positions. The magnetic field and the initial energy
+ is computed so that the initial quantum parameter is equal to 0.1
+
+ Validation:
+ - Corrected Landau-Lifshitz radiation loss
+ - Niel stochastic radiation loss
+ - Monte-Carlo model
+ - Species scalar diagnostics
+ - External fields
+ - Particle binning diagnostics for the quantum parameter
+ ----------------------------------------------------------------------------------------
+
 - `tst2d_v_23_interpolation_wt2.py` — (no comment found)
 - `tst2d_v_23_interpolation_wt4.py` — (no comment found)
-- `tst2d_v_o2_em_propagation.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o2_em_propagation.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst2d_v_o2_laser_wake_higuera.py` — (no comment found)
 - `tst2d_v_o2_laser_wake_vay.py` — (no comment found)
-- `tst2d_v_o2_multiphoton_Breit_Wheeler.py` — ----------------------------------------------------------------------------------------
-- `tst2d_v_o2_plasma_mirror.py` — ----------------------------------------------------------------------------------------
-- `tst2d_v_o2_qed_cascade_vranic_cartesian.py` — ----------------------------------------------------------------------------------------
-- `tst2d_v_o2_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
-- `tst2d_v_o4_em_propagation.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o2_multiphoton_Breit_Wheeler.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Descrition:
+ Interaction between a bunch of photons and a constant magnetic field
+
+ Purpose:
+ During the interaction,the photons will progressively decay into pairs
+ of electron-positron via the multiphoton Breit-Wheeler process
+ The radiation reaction of particles is not activated.
+
+ Validation:
+ - Propagation of macro-photons
+ - multiphoton Breit-Wheeler pair creation process
+
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_v_o2_plasma_mirror.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_v_o2_qed_cascade_vranic_cartesian.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Input file to test the particle merging in 2D
+
+ This scenario simulate the QED cascade induced in the collision of 2
+ lineary polarized plane waves.
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_v_o2_radiation_pressure_acc.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_v_o4_em_propagation.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst2d_v_o4_laser_wake_vay.py` — (no comment found)
-- `tst2d_v_o4_multiphoton_Breit_Wheeler.py` — ----------------------------------------------------------------------------------------
-- `tst2d_v_o4_radiation_pressure_acc.py` — ----------------------------------------------------------------------------------------
+- `tst2d_v_o4_multiphoton_Breit_Wheeler.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Descrition:
+ Interaction between a bunch of photons and a constant magnetic field
+
+ Purpose:
+ During the interaction,the photons will progressively decay into pairs
+ of electron-positron via the multiphoton Breit-Wheeler process
+ The radiation reaction of particles is not activated.
+
+ Validation:
+ - Propagation of macro-photons
+ - multiphoton Breit-Wheeler pair creation process
+
+ ----------------------------------------------------------------------------------------
+
+- `tst2d_v_o4_radiation_pressure_acc.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst3d_00_em_propagation.py` — (no comment found)
-- `tst3d_01_thermal_plasma.py` — ----------------------------------------------------------------------------------------
-- `tst3d_01_thermal_plasma_pxr.py` — ----------------------------------------------------------------------------------------
+- `tst3d_01_thermal_plasma.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_01_thermal_plasma_pxr.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst3d_02_diags.py` — (no comment found)
 - `tst3d_04_laser_wake.py` — (no comment found)
 - `tst3d_04_laser_wake_lehe.py` — (no comment found)
 - `tst3d_04_laser_wake_sdmd.py` — (no comment found)
 - `tst3d_06_profiles.py` — (no comment found)
-- `tst3d_07_envelope_propagation.py` — ############################ Laser envelope propagation in vacuum
-- `tst3d_08_envelope_wake.py` — ################## 3D Laser Wakefield with envelope
-- `tst3d_09_relativistic_cylindrical_bunch.py` — ##### Namelist for the field initialization of a relativistic electron bunch, with cylindrical uniform density
-- `tst3d_0_em_propagation_particles.py` — ----------------------------------------------------------------------------------------
+- `tst3d_07_envelope_propagation.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tst3d_08_envelope_wake.py` — (no comment found)################## 3D Laser Wakefield with envelope
+
+- `tst3d_09_relativistic_cylindrical_bunch.py` — (no comment found)##### Namelist for the field initialization of a relativistic electron bunch, with cylindrical uniform density
+
+- `tst3d_0_em_propagation_particles.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst3d_10_em_propagation_external_field_tabulated.py` — (no comment found)
 - `tst3d_11_laser_offset.py` — (no comment found)
-- `tst3d_12_relativistic_electron_beam_field_initialization.py` — ##### Namelist for field initialization of a relativistic electron bunch
-- `tst3d_13_particle_injection_x.py` — ----------------------------------------------------------------------------------------
-- `tst3d_13_particle_injection_y.py` — ----------------------------------------------------------------------------------------
-- `tst3d_13_particle_injection_z.py` — ----------------------------------------------------------------------------------------
-- `tst3d_14_electron_sphere_field_initialization.py` — ##### Namelist for the field initialization of an electron sphere in AM geometry
-- `tst3d_16_envelope_propagation_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
-- `tst3d_17_envelope_wake_reduced_dispersion.py` — ################## 3D Laser Wakefield with envelope
-- `tst3d_18_synchrotron_analytical.py` — ----------------------------------------------------------------------------------------
+- `tst3d_12_relativistic_electron_beam_field_initialization.py` — (no comment found)##### Namelist for field initialization of a relativistic electron bunch
+
+- `tst3d_13_particle_injection_x.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Particle injection from the Xmin and Xmax boundaries
+
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_13_particle_injection_y.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Particle injection from the Xmin and Xmax boundaries
+
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_13_particle_injection_z.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Particle injection from the Xmin and Xmax boundaries
+
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_14_electron_sphere_field_initialization.py` — (no comment found)##### Namelist for the field initialization of an electron sphere in AM geometry
+
+- `tst3d_16_envelope_propagation_reduced_dispersion.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tst3d_17_envelope_wake_reduced_dispersion.py` — (no comment found)################## 3D Laser Wakefield with envelope
+
+- `tst3d_18_synchrotron_analytical.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Synchrotron: radiation loss of electrons rotating in a constant
+              magnetic field using the MC model
+
+ In this tests case, the MC model is compared to analytics after 1 iteration.
+
+ Validation:
+ - Monte-Carlo radiation loss
+ - Species scalar diagnostics
+ - External fields
+ - Particle binning with the quantum parameter
+ ----------------------------------------------------------------------------------------
+
 - `tst3d_20_y_em_propagation.py` — (no comment found)
 - `tst3d_21_z_laser_offset.py` — (no comment found)
 - `tst3d_22_em_dispersion_m4.py` — (no comment found)
 - `tst3d_23_interpolation_wt2.py` — (no comment found)
 - `tst3d_23_interpolation_wt4.py` — (no comment found)
 - `tst3d_a_o2_laser_wake.py` — (no comment found)
-- `tst3d_electron_bunch_wake.py` — ##### Namelist for plasma wake excited by a relativistic electron bunch
-- `tst3d_envelope_propagation_to_Rayleigh_length.py` — ############################ Laser envelope propagation in vacuum
-- `tst3d_envelope_wakefield_linear_theory.py` — ################## 3D Laser Wakefield with envelope
-- `tst3d_laser_wake_bunch_init_numpy.py` — ### Namelist for laser wakefield acceleration, external injection of an electron bunch made of numpy particles
-- `tst3d_rel_cyl_uniform_bunch_field_init.py` — ##### Namelist for plasma wake excited by a relativistic electron bunch
+- `tst3d_electron_bunch_wake.py` — (no comment found)##### Namelist for plasma wake excited by a relativistic electron bunch
+
+- `tst3d_envelope_propagation_to_Rayleigh_length.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tst3d_envelope_wakefield_linear_theory.py` — (no comment found)################## 3D Laser Wakefield with envelope
+
+- `tst3d_laser_wake_bunch_init_numpy.py` — (no comment found)### Namelist for laser wakefield acceleration, external injection of an electron bunch made of numpy particles
+
+- `tst3d_rel_cyl_uniform_bunch_field_init.py` — (no comment found)##### Namelist for plasma wake excited by a relativistic electron bunch
+
 - `tst3d_s_o2_laser_wake_yee_higuera.py` — (no comment found)
 - `tst3d_s_o2_laser_wake_yee_vay.py` — (no comment found)
-- `tst3d_s_o2_synchrotron_radiation_chi1.py` — ----------------------------------------------------------------------------------------
-- `tst3d_s_o2_thermal_plasma.py` — ----------------------------------------------------------------------------------------
+- `tst3d_s_o2_synchrotron_radiation_chi1.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Synchrotron: radiation loss of electrons rotating in a constant
+              magnetic field
+
+ In this tests case, an electron bunch is initialized per radiation
+ loss models at the same positions. The magnetic field and the initial energy
+ is computed so that the initial quantum parameter is equal to 1.
+
+ Validation:
+ - Landau-Lifshitz radiation loss with quantum correction
+ - Niel radiation model
+ - Monte-Carlo radiation loss
+ - Species scalar diagnostics
+ - External fields
+ - Particle binning with the quantum parameter
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_s_o2_thermal_plasma.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst3d_s_o4_em_propagation.py` — (no comment found)
-- `tst3d_s_o4_thermal_plasma.py` — ----------------------------------------------------------------------------------------
-- `tst3d_tasks_01_laser_wakefield_envelope.py` — ----------------------------------------------------------------------------------------
-- `tst3d_tasks_v_01_plasma_expansion.py` — SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
-- `tst3d_v_08_envelope_wake.py` — ################## 3D Laser Wakefield with envelope
-- `tst3d_v_12_external_laser.py` — ----------------------------------------------------------------------------------------
+- `tst3d_s_o4_thermal_plasma.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_tasks_01_laser_wakefield_envelope.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_tasks_v_01_plasma_expansion.py` — (no comment found) SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_v_08_envelope_wake.py` — (no comment found)################## 3D Laser Wakefield with envelope
+
+- `tst3d_v_12_external_laser.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst3d_v_23_interpolation_wt2.py` — (no comment found)
 - `tst3d_v_23_interpolation_wt4.py` — (no comment found)
 - `tst3d_v_o2_laser_wake_yee_boris.py` — (no comment found)
-- `tst3d_v_o2_magnetic_shower_particle_merging.py` — ----------------------------------------------------------------------------------------
-- `tst3d_v_o2_magnetic_shower_vranic_cartesian.py` — ----------------------------------------------------------------------------------------
-- `tst3d_v_o2_particle_injection_x.py` — ----------------------------------------------------------------------------------------
-- `tst3d_v_o2_plasma_relaxation_dyn.py` — ------------------------------------------------------------------------------
-- `tst3d_v_o2_synchrotron_analytical.py` — ----------------------------------------------------------------------------------------
-- `tst3d_v_o2_thermal_plasma.py` — ----------------------------------------------------------------------------------------
+- `tst3d_v_o2_magnetic_shower_particle_merging.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Magnetic shower in 3D with particle merging
+
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_v_o2_magnetic_shower_vranic_cartesian.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Magnetic shower in 3D with particle merging
+
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_v_o2_particle_injection_x.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Particle injection from the Xmin and Xmax boundaries
+
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_v_o2_plasma_relaxation_dyn.py` — (no comment found) ------------------------------------------------------------------------------
+ Relaxation of a thermal electron-positron plasma in 3D
+ ------------------------------------------------------------------------------
+
+- `tst3d_v_o2_synchrotron_analytical.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Synchrotron: radiation loss of electrons rotating in a constant
+              magnetic field using the MC model
+
+ In this tests case, the MC model is compared to analytics after 1 iteration.
+
+ Validation:
+ - Monte-Carlo radiation loss
+ - Species scalar diagnostics
+ - External fields
+ - Particle binning with the quantum parameter
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_v_o2_thermal_plasma.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
 - `tst3d_v_o4_laser_wake_boris.py` — (no comment found)
-- `tst3d_v_o4_magnetic_shower_particle_merging.py` — ----------------------------------------------------------------------------------------
-- `tst3d_v_o4_particle_injection_x.py` — ----------------------------------------------------------------------------------------
-- `tst3d_v_o4_plasma_relaxation_dyn.py` — ------------------------------------------------------------------------------
-- `tst3d_v_o4_synchrotron_analytical.py` — ----------------------------------------------------------------------------------------
-- `tst3d_v_o4_thermal_plasma.py` — ----------------------------------------------------------------------------------------
-- `tstAM_00_em_propagation.py` — ----------------------------------------------------------------------------------------
-- `tstAM_04_laser_propagation.py` — ----------------------------------------------------------------------------------------
-- `tstAM_04_laser_propagation_sdmd.py` — ----------------------------------------------------------------------------------------
-- `tstAM_04b_laser_propagation_numpy.py` — ----------------------------------------------------------------------------------------
-- `tstAM_04c_laser_propagation_file.py` — ----------------------------------------------------------------------------------------
-- `tstAM_04d_laser_propagation_Order1.py` — ----------------------------------------------------------------------------------------
-- `tstAM_05_envelope_propagation.py` — ############################ Laser envelope propagation in vacuum
-- `tstAM_06_envelope_wake.py` — ############################ Laser envelope propagation in underdense plasma
-- `tstAM_07_envelope_propagation_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
-- `tstAM_08_envelope_wake_reduced_dispersion.py` — ############################ Laser envelope propagation in vacuum
-- `tstAM_10_em_propagation_external_field.py` — ----------------------------------------------------------------------------------------
-- `tstAM_12_relativistic_electron_beam_field_initialization.py` — ##### Namelist for the field initialization of a relativistic electron bunch
-- `tstAM_13_electron_sphere_field_initialization.py` — ##### Namelist for the field initialization of an electron sphere in AM geometry
+- `tst3d_v_o4_magnetic_shower_particle_merging.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Magnetic shower in 3D with particle merging
+
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_v_o4_particle_injection_x.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Particle injection from the Xmin and Xmax boundaries
+
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_v_o4_plasma_relaxation_dyn.py` — (no comment found) ------------------------------------------------------------------------------
+ Relaxation of a thermal electron-positron plasma in 3D
+ ------------------------------------------------------------------------------
+
+- `tst3d_v_o4_synchrotron_analytical.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+ Synchrotron: radiation loss of electrons rotating in a constant
+              magnetic field using the MC model
+
+ In this tests case, the MC model is compared to analytics after 1 iteration.
+
+ Validation:
+ - Monte-Carlo radiation loss
+ - Species scalar diagnostics
+ - External fields
+ - Particle binning with the quantum parameter
+ ----------------------------------------------------------------------------------------
+
+- `tst3d_v_o4_thermal_plasma.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_00_em_propagation.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_04_laser_propagation.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_04_laser_propagation_sdmd.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_04b_laser_propagation_numpy.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_04c_laser_propagation_file.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_04d_laser_propagation_Order1.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_05_envelope_propagation.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tstAM_06_envelope_wake.py` — (no comment found)############################ Laser envelope propagation in underdense plasma
+
+- `tstAM_07_envelope_propagation_reduced_dispersion.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tstAM_08_envelope_wake_reduced_dispersion.py` — (no comment found)############################ Laser envelope propagation in vacuum
+
+- `tstAM_10_em_propagation_external_field.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_12_relativistic_electron_beam_field_initialization.py` — (no comment found)##### Namelist for the field initialization of a relativistic electron bunch
+
+- `tstAM_13_electron_sphere_field_initialization.py` — (no comment found)##### Namelist for the field initialization of an electron sphere in AM geometry
+
 - `tstAM_14_envelope_ionization_linear_polarization.py` — (no comment found)
 - `tstAM_15_envelope_ionization_circular_polarization.py` — (no comment found)
-- `tstAM_16_multiple_envelopes_wake.py` — Multiple laser envelopes propagation in plasma
-- `tstAM_17_plasma_channel_terzani.py` — ############################ Input namelist for laser guiding in a plasma channel
-- `tstAM_picsar_04_laser_wake.py` — ----------------------------------------------------------------------------------------
-- `tstAM_tasks_01_laser_wakefield_ionization.py` — ----------------------------------------------------------------------------------------
-- `tstAM_tasks_02_envelope_ionization.py` — ----------------------------------------------------------------------------------------
-- `tstAM_v_04_laser_propagation.py` — ----------------------------------------------------------------------------------------
-- `tst_collisions1_beam_relaxation.py` — ---------------------------------------------
-- `tst_collisions2_ionization_rate.py` — ---------------------------------------------
-- `tst_collisions3_AM_uniformity.py` — ---------------------------------------------
-- `tst_collisions3_uniformity.py` — ---------------------------------------------
-- `tst_collisions4_DD_fusion_rate.py` — ---------------------------------------------
-- `tst_collisions5_debye_length.py` — ---------------------------------------------
-- `tst_ionization_current_1d_order2.py` — ----------------------------------------------------------------------------------------
-- `tst_ionization_current_1d_order4.py` — ----------------------------------------------------------------------------------------
-- `tst_ionization_current_2d_order2.py` — ----------------------------------------------------------------------------------------
-- `tst_ionization_current_2d_order4.py` — ----------------------------------------------------------------------------------------
-- `tst_ionization_current_3d_order2.py` — ----------------------------------------------------------------------------------------
-- `tst_ionization_current_3d_order4.py` — ----------------------------------------------------------------------------------------
-- `tst_quick_1d.py` — ----------------------------------------------------------------------------------------
+- `tstAM_16_multiple_envelopes_wake.py` — (no comment found) Multiple laser envelopes propagation in plasma
+
+- `tstAM_17_plasma_channel_terzani.py` — (no comment found)############################ Input namelist for laser guiding in a plasma channel
+
+- `tstAM_picsar_04_laser_wake.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_tasks_01_laser_wakefield_ionization.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_tasks_02_envelope_ionization.py` — (no comment found) ----------------------------------------------------------------------------------------
+                     SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tstAM_v_04_laser_propagation.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst_collisions1_beam_relaxation.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `tst_collisions2_ionization_rate.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `tst_collisions3_AM_uniformity.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `tst_collisions3_uniformity.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `tst_collisions4_DD_fusion_rate.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `tst_collisions5_debye_length.py` — (no comment found) ---------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ---------------------------------------------
+
+- `tst_ionization_current_1d_order2.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst_ionization_current_1d_order4.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst_ionization_current_2d_order2.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst_ionization_current_2d_order4.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst_ionization_current_3d_order2.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst_ionization_current_3d_order4.py` — (no comment found) ----------------------------------------------------------------------------------------
+ 					SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+ ----------------------------------------------------------------------------------------
+
+- `tst_quick_1d.py` — (no comment found) ----------------------------------------------------------------------------------------
+ SIMULATION PARAMETERS FOR THE PIC-CODE SMILEI
+
+ Quick test 1d
+ This benchmarks is used to test a lot of features in a minimum of compute time
+
+ ----------------------------------------------------------------------------------------

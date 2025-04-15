@@ -3,15 +3,15 @@ import os
 def extract_first_comment(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
+            comment="(no comment found)"
             for line in f:
-                line = line.strip()
                 if line.startswith("#") and len(line) > 1:
-                    return line[1:].strip()  # Remove '#' and surrounding whitespace
-                elif line != "":
+                    comment+=line[1:]
+                else:
                     break  # Stop at the first non-empty, non-comment line
     except Exception as e:
         return f"(error reading file: {e})"
-    return "(no comment found)"
+    return comment
 
 def list_sorted_py_files_with_comments(directory):
     py_files = []
