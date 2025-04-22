@@ -20,4 +20,6 @@ jobs:
       - name: compile Smilei
         run: |
           export OMPI_CXX=g++-14
+          export HDF5_ROOT_DIR=$(brew --prefix hdf5-mpi)
+          env
           make
