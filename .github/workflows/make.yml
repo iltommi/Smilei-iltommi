@@ -14,9 +14,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: update
-        run: sudo apt-get --allow-releaseinfo-change update -y 
-      - name: python
+      - name: deps
         run: |
           brew install iltommi/brews/smilei --HEAD --only-dependencies
       - name: compile Smilei
