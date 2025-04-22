@@ -17,10 +17,8 @@ jobs:
       - name: deps
         run: |
           brew install iltommi/brews/smilei --HEAD --only-dependencies
-          which mpicxx
       - name: compile Smilei
         run: |
           export OMPI_CXX=g++-14
           export HDF5_ROOT_DIR=$(brew --prefix hdf5-mpi)
           make
-          otool -L smilei
